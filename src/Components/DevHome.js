@@ -86,6 +86,7 @@ class DevHome extends Component {
               name: 'Ethereum Blockchain',
               owner: 'Felipe Guth',
               private: false,
+              url: 'https://github.com/felipeguth/ETH_Blockchaing_Intro',
               startdate: new Date(2021, 8, 1),
               current: true,
               thumbnail: "https://drive.google.com/uc?id=1gxXOwBmha0NasySaq2HmLF54q1bno2h9",
