@@ -686,7 +686,7 @@ class DevHome extends Component {
               location: 'Rio Grande, RS, Brazil',
               startdate: new Date(2014, 2, 1),
               enddate: new Date(2014, 6, 28),
-              info: "40 hs - Teaching internship in Computer Engineering for the module of Artifial Intelligence and Robotics."
+              info: "40 hs - Teaching internship in Computer Engineering for the module of Artificial Intelligence and Robotics."
             },
             {
               title: 'Research and Innovation Graduate Scholar',
